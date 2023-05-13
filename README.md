@@ -1,7 +1,10 @@
-# compound-protein-interaction
-About: various computational methods to predict compound-protein interaction and affinity.
+# authors
+Roziena Badree & Mengriu Mao
 
-# Requirements
+# compound-protein-interaction
+various computational methods to predict compound-protein interaction & affinity
+
+# requirements
 numpy==1.19.1 </br>
 pandas==1.0.5  </br>
 rdkit==2009.Q1-1  </br>
